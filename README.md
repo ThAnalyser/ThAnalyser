@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" width="30px" height="30px" />, I'm Hanzala Raja — a Data Analyst 👨‍💻
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Hanzala Raja — a Data Analyst 👨‍💻
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
