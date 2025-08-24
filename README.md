@@ -1,10 +1,10 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Hanzala Raja — a Data Analyst 👨‍💻
+## Hey , I'm Hanzala Raja — a Data Analyst 👨‍💻
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 ### Glad to see you here!
 
-<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
+
 <!--
 **ThAnalyser/ThAnalyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
