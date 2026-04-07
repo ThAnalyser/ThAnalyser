@@ -1,7 +1,5 @@
 ## Hey , I'm Hanzala Raja — a Data Analyst 👨‍💻
 
-## 🚀 About Me
- 
 I'm a passionate **Data Analyst** who loves transforming raw data into actionable insights. With a strong foundation in data analysis, visualization, and business intelligence, I help organizations make data-driven decisions.
  
 - 🔭 Currently working on **enhancing my data analytics portfolio**
